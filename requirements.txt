@@ -1,0 +1,6 @@
+gspread
+google-auth
+pandas
+sqlalchemy
+psycopg2-binary
+python-dotenv

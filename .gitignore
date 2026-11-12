@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Google service account credentials
+credentials/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# VS Code settings
+.vscode/
